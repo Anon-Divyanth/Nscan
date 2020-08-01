@@ -5,6 +5,6 @@ git clone https://github.com/Anon-Divyanth/Nscan
 
 cd Nscan
 
-python3 -m pip install termcolor 
+pip install termcolor 
 
 python nscan.py
