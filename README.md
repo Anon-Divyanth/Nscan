@@ -6,8 +6,11 @@ It contain Advance nmap scanning scripts.,
 # Installation:
 
 $ git clone https://github.com/Anon-Divyanth/Nscan
+
 $ cd Nscan
+
 $ pip install termcolor 
+
 $ python nscan.py
 
 # Note:
