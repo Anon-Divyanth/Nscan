@@ -9,7 +9,7 @@ $ git clone https://github.com/Anon-Divyanth/Nscan
 
 $ cd Nscan
 
-$ pip install termcolor 
+$ pip install -r requirements.txt
 
 $ python nscan.py
 
